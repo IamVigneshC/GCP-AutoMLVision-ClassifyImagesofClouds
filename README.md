@@ -7,8 +7,8 @@ AutoML Vision provides an interface for all the steps in training an image class
 
 Create environment variables for your Project ID and Username:
 
-` export PROJECT_ID=$DEVSHELL_PROJECT_ID
-export USERNAME=<USERNAME> `
+` export PROJECT_ID=$DEVSHELL_PROJECT_ID `
+` export USERNAME=<USERNAME> `
   
   
 Create a Storage Bucket for the images you will use in testing.
